@@ -15,8 +15,7 @@
 
 <br />
 
-### Languages and Tools:
-###### Languages
+##### Languages
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/typescriptlang.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/php.png" />
@@ -25,12 +24,12 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/css.png" />
 <br />
 
-###### Databases
+##### Databases
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/mongodb.png" />
 <br />
 
-###### Other
+##### Other
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/nodejs.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/graphql.png" />
