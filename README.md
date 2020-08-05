@@ -4,7 +4,7 @@
 - :computer: I’m currently working at [PunaMusta Digital Oy][work-website]
 - :zap: I’m currently learning WordPress
 - :rocket: I’m looking to collaborate with other content creators
-- :mortar_board: 2020 Goals: Graduating from the University of Jyväskylä
+- :mortar_board: 2020 Goals: Graduating from the [University of Jyväskylä][degree-website]
 
 ### Connect with me:
 
@@ -16,18 +16,26 @@
 <br />
 
 ### Languages and Tools:
+###### Languages
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/typescriptlang.png" />
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/php.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/python.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/css.png" />
+<br />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+###### Databases
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/mongodb.png" />
+<br />
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+###### Other
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/nodejs.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/graphql.png" />
+<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/WordPress.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Tatatofly/Tatatofly/master/icons/git.png" />
 
 <br />
 <br />
@@ -38,6 +46,7 @@
 
 [website]: https://tatu.moe
 [work-website]: https://punamustadigital.fi
+[degree-website]: https://www.jyu.fi/it/fi/opiskelu/kandidaatti-ja-maisteriohjelmat/tietotekniikka
 [twitter]: https://twitter.com/TatuFin
 [instagram]: https://www.instagram.com/tatu.moe/
 [linkedin]: https://www.linkedin.com/in/tatutoikkanen/
