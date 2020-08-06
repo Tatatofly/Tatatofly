@@ -1,7 +1,7 @@
 ### Hi, I'm Tatu Toikkanen - aka [Tatatofly][website] :coffee:
 
 ## Full Stack Web Software Developer
-- :computer: I’m currently working at [PunaMusta Digital Oy][work-website]
+- :computer: I’m currently working as [Freelancer][work-website]
 - :zap: I’m currently learning WordPress
 - :rocket: I’m looking to collaborate with other content creators
 - :mortar_board: 2020 Goals: Graduating from the [University of Jyväskylä][degree-website]
@@ -44,7 +44,7 @@
 <img align="left" alt="Tatu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tatatofly&show_icons=true&hide_border=true" />
 
 [website]: https://tatu.moe
-[work-website]: https://punamustadigital.fi
+[work-website]: https://freelance.tatu.moe
 [degree-website]: https://www.jyu.fi/it/fi/opiskelu/kandidaatti-ja-maisteriohjelmat/tietotekniikka
 [twitter]: https://twitter.com/TatuFin
 [instagram]: https://www.instagram.com/tatu.moe/
