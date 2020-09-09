@@ -2,7 +2,7 @@
 
 ## Full Stack Web Software Developer
 - :computer: I’m currently working as [Freelancer][work-website]
-- :zap: I’m currently learning Swedish and Discrete mathematics
+- :zap: I’m currently learning Discrete mathematics
 - :rocket: I’m looking to collaborate with other content creators
 - :mortar_board: 2020 Goals: Graduating from the [University of Jyväskylä][degree-website]
 
