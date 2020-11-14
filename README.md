@@ -1,7 +1,7 @@
 ### Hi, I'm Tatu Toikkanen - aka [Tatatofly][website] :coffee:
 
 ## Full Stack Web Software Developer
-- :computer: I’m currently working as [Freelancer][work-website]
+- :computer: I’m currently writing my thesis 🎓
 - :zap: I’m currently learning Django
 - :rocket: I’m looking to collaborate with other content creators
 - :mortar_board: 2020 Goals: Graduating from the [University of Jyväskylä][degree-website]
