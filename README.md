@@ -2,9 +2,9 @@
 
 ## Junior Software Developer
 - :computer: I’m currently working as Junior Software Developer at Secapp - Critical communications
-- :zap: I’m currently learning Django
+- :zap: I’m currently learning Python + Django
 - :rocket: I’m looking to collaborate with other content creators
-- :mortar_board: 2020 Goals: Graduating from the [University of Jyväskylä][degree-website]
+- :mortar_board: 2021 Goals: 
 
 ### Connect with me:
 
