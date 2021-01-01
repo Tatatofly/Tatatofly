@@ -44,7 +44,6 @@
 <img align="left" alt="Tatu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tatatofly&show_icons=true&hide_border=true" />
 
 [website]: https://tatato.fi
-[work-website]: https://freelance.tatu.moe
 [degree-website]: https://www.jyu.fi/it/fi/opiskelu/kandidaatti-ja-maisteriohjelmat/tietotekniikka
 [twitter]: https://twitter.com/TatuFin
 [instagram]: https://www.instagram.com/tatu.moe/
