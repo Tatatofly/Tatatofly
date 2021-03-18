@@ -1,7 +1,7 @@
 ### Hi, I'm Tatu Toikkanen - aka [Tatatofly][website] :coffee:
 
-## Software Developer
-- :computer: I’m currently working as Software Developer at Secapp - Critical communications
+## Full Stack Web Developer
+- :computer: I’m currently working as Full Stack Developer at Secapp - Critical communications
 - :zap: I’m currently learning Python + Django
 - :rocket: I’m looking to collaborate with other content creators
 - :mortar_board: 2021 Goals: Find work-life balance and code things :3
