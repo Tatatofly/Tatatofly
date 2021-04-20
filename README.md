@@ -46,4 +46,4 @@
 [degree-website]: https://www.jyu.fi/it/fi/opiskelu/kandidaatti-ja-maisteriohjelmat/tietotekniikka
 [twitter]: https://twitter.com/TatuFin
 [instagram]: https://www.instagram.com/tatu.moe/
-[linkedin]: https://www.linkedin.com/in/tatutoikkanen/
+[linkedin]: https://www.linkedin.com/in/tatu-toikkanen/
