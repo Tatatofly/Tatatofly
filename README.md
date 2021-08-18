@@ -2,13 +2,13 @@
 
 ## Full-Stack Web Developer
 - :computer: I’m currently working as Full-Stack Web Developer at Secapp - Critical communications
-- :zap: I’m currently learning Python + Django
+- :zap: I’m currently learning Education theory
 - :rocket: I’m looking to collaborate with other content creators
 - :mortar_board: 2021 Goals: Find work-life balance and code things :3
 
 ### Connect with me:
 
-[<img align="left" alt="tatu.moe" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tatato.fi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="twitter-link | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin-link | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
