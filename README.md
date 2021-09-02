@@ -2,7 +2,7 @@
 
 ## Full-Stack Web Developer
 - :computer: I’m currently working as Full-Stack Web Developer at Secapp - Critical communications
-- :zap: I’m currently learning Education theory
+- :zap: I’m currently learning Education theory & Educational technology
 - :rocket: I’m looking to collaborate with other content creators
 - :mortar_board: 2021 Goals: Find work-life balance and code things :3
 
