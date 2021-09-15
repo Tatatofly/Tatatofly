@@ -2,7 +2,7 @@
 
 ## Full-Stack Web Developer
 - :computer: I’m currently working as Full-Stack Web Developer at Secapp - Critical communications
-- :zap: I’m currently learning Education technology @ University of Jyväskylä
+- :zap: I’m currently learning [Education Technology][degree-website] @ University of Jyväskylä
 - :rocket: I’m looking to collaborate with other content creators
 - :mortar_board: 2021 Goals: Find work-life balance and code things :3
 
@@ -43,7 +43,7 @@
 <img align="left" alt="Tatu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tatatofly&show_icons=true&hide_border=true" />
 
 [website]: https://tatato.fi
-[degree-website]: https://www.jyu.fi/it/fi/opiskelu/kandidaatti-ja-maisteriohjelmat/tietotekniikka
+[degree-website]: https://www.jyu.fi/it/fi/opiskelu/maisteriohjelmat/koulutusteknologia
 [twitter]: https://twitter.com/TatuFin
 [instagram]: https://www.instagram.com/tatu.moe/
 [linkedin]: https://www.linkedin.com/in/tatu-toikkanen/
