@@ -4,7 +4,7 @@
 - :computer: I’m currently working as Full-Stack Web Developer at Secapp - Critical communications
 - :zap: I’m currently learning [Education Technology][degree-website] @ University of Jyväskylä
 - :rocket: I’m looking to collaborate with other content creators
-- :mortar_board: 2022 Goals: Learn languages, Study new things, Grow Tatulta LTD
+- :mortar_board: 2022 Goals: Learn languages, Study new things, Grow Tatulta Ltd.
 
 ### Connect with me:
 
