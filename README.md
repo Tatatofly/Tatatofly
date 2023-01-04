@@ -4,7 +4,7 @@
 - :computer: I’m currently working as Software Consultant at Lease Deal IT Oy
 - :zap: I’m currently learning [Education Technology][degree-website] @ University of Jyväskylä
 - :rocket: I’m looking to collaborate with other content creators
-- :mortar_board: 2022 Goals: Learn languages, Study new things, Grow Tatulta Ltd.
+- :mortar_board: 2023 Goals: Learn languages, Study new things, Follow interesting ideas
 
 ### Connect with me:
 
