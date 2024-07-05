@@ -1,7 +1,8 @@
 ### Hi, I'm Tatu Toikkanen :coffee:
 
-## Software Consultant
-- :computer: I’m working as Lead Systems Designer at Finnish Defence Forces
+## Lead System Designer
+#### Techical Team Leader | Software Developer | ICT Teacher | Entrepreneur | Language Learner | Gamer
+- :computer: I’m working as Lead System Designer at Finnish Defence Forces
 - :zap: I’m learning [Education Technology][degree-website] @ University of Jyväskylä
 - :rocket: I’m looking to collaborate with other content creators
 - :mortar_board: 2024 Goals: Learn languages, Design awesome systems, Follow interesting ideas
