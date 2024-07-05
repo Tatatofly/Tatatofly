@@ -1,14 +1,14 @@
-### Hi, I'm Tatu Toikkanen - aka [Tatatofly][website] :coffee:
+### Hi, I'm Tatu Toikkanen :coffee:
 
 ## Software Consultant
-- :computer: I’m currently working as Software Consultant at Lease Deal IT Oy
-- :zap: I’m currently learning [Education Technology][degree-website] @ University of Jyväskylä
+- :computer: I’m working as Lead Systems Designer at Finnish Defence Forces
+- :zap: I’m learning [Education Technology][degree-website] @ University of Jyväskylä
 - :rocket: I’m looking to collaborate with other content creators
-- :mortar_board: 2023 Goals: Learn languages, Study new things, Follow interesting ideas
+- :mortar_board: 2024 Goals: Learn languages, Design awesome systems, Follow interesting ideas
 
 ### Connect with me:
 
-[<img align="left" alt="tatato.fi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tatulta.fi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="twitter-link | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin-link | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -42,7 +42,7 @@
 
 <img align="left" alt="Tatu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tatatofly&show_icons=true&hide_border=true" />
 
-[website]: https://tatato.fi
+[website]: https://tatulta.fi
 [degree-website]: https://www.jyu.fi/it/fi/opiskelu/maisteriohjelmat/koulutusteknologia
 [twitter]: https://twitter.com/TatuFin
 [instagram]: https://www.instagram.com/tatu.moe/
